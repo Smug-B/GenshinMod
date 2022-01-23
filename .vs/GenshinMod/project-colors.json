@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "35a7f568-f87b-4e9b-8d65-59b6f894486b": {
+      "ProjectGuid": "35a7f568-f87b-4e9b-8d65-59b6f894486b",
+      "DisplayName": "GenshinMod",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
